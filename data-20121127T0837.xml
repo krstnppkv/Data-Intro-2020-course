@@ -1,0 +1,583 @@
+﻿<part02>
+  <record>
+    <region>Республика Адыгея</region>
+    <count_obr>152</count_obr>
+    <count_student>43710</count_student>
+    <count_teacher>3696</count_teacher>
+    <ratio>1.183000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Башкортостан</region>
+    <count_obr>1667</count_obr>
+    <count_student>433648</count_student>
+    <count_teacher>41081</count_teacher>
+    <ratio>1.056000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Бурятия </region>
+    <count_obr>487</count_obr>
+    <count_student>116577</count_student>
+    <count_teacher>8489</count_teacher>
+    <ratio>1.373000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Алтай </region>
+    <count_obr>153</count_obr>
+    <count_student>29621</count_student>
+    <count_teacher>3257</count_teacher>
+    <ratio>9.090000000000000e+000</ratio>
+  </record>
+  <record>
+    <region>Республика Дагестан </region>
+    <count_obr>1634</count_obr>
+    <count_student>374691</count_student>
+    <count_teacher>41618</count_teacher>
+    <ratio>9.000000000000000e+000</ratio>
+  </record>
+  <record>
+    <region>Республика Ингушетия </region>
+    <count_obr>112</count_obr>
+    <count_student>54596</count_student>
+    <count_teacher>5810</count_teacher>
+    <ratio>9.400000000000000e+000</ratio>
+  </record>
+  <record>
+    <region>Кабардино-Балкарская республика </region>
+    <count_obr>283</count_obr>
+    <count_student>90425</count_student>
+    <count_teacher>5141</count_teacher>
+    <ratio>1.759000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Калмыкия </region>
+    <count_obr>165</count_obr>
+    <count_student>31764</count_student>
+    <count_teacher>3441</count_teacher>
+    <ratio>9.230000000000000e+000</ratio>
+  </record>
+  <record>
+    <region>Карачаево-Черкесская республика </region>
+    <count_obr>180</count_obr>
+    <count_student>45971</count_student>
+    <count_teacher>4608</count_teacher>
+    <ratio>9.980000000000000e+000</ratio>
+  </record>
+  <record>
+    <region>Республика Карелия </region>
+    <count_obr>221</count_obr>
+    <count_student>63112</count_student>
+    <count_teacher>5444</count_teacher>
+    <ratio>1.159000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Коми </region>
+    <count_obr>412</count_obr>
+    <count_student>96775</count_student>
+    <count_teacher>7917</count_teacher>
+    <ratio>1.222000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Марий Эл </region>
+    <count_obr>273</count_obr>
+    <count_student>66837</count_student>
+    <count_teacher>5546</count_teacher>
+    <ratio>1.205000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Мордовия </region>
+    <count_obr>438</count_obr>
+    <count_student>68983</count_student>
+    <count_teacher>6938</count_teacher>
+    <ratio>9.940000000000000e+000</ratio>
+  </record>
+  <record>
+    <region>Республика Саха (Якутия) </region>
+    <count_obr>642</count_obr>
+    <count_student>137034</count_student>
+    <count_teacher>14266</count_teacher>
+    <ratio>9.609999999999999e+000</ratio>
+  </record>
+  <record>
+    <region>Республика Северная Осетия — Алания </region>
+    <count_obr>189</count_obr>
+    <count_student>79882</count_student>
+    <count_teacher>6345</count_teacher>
+    <ratio>1.259000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Татарстан </region>
+    <count_obr>1768</count_obr>
+    <count_student>374145</count_student>
+    <count_teacher>32500</count_teacher>
+    <ratio>1.151000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Тыва </region>
+    <count_obr>173</count_obr>
+    <count_student>54423</count_student>
+    <count_teacher>4556</count_teacher>
+    <ratio>1.195000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Удмуртская республика </region>
+    <count_obr>645</count_obr>
+    <count_student>157625</count_student>
+    <count_teacher>12761</count_teacher>
+    <ratio>1.235000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Республика Хакасия </region>
+    <count_obr>185</count_obr>
+    <count_student>56330</count_student>
+    <count_teacher>4365</count_teacher>
+    <ratio>1.290000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Чеченская республика </region>
+    <count_obr>448</count_obr>
+    <count_student>218652</count_student>
+    <count_teacher>13392</count_teacher>
+    <ratio>1.633000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Чувашская республика </region>
+    <count_obr>500</count_obr>
+    <count_student>126033</count_student>
+    <count_teacher>9441</count_teacher>
+    <ratio>1.335000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Алтайский край </region>
+    <count_obr>1175</count_obr>
+    <count_student>235839</count_student>
+    <count_teacher>21752</count_teacher>
+    <ratio>1.084000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Краснодарский край </region>
+    <count_obr>1231</count_obr>
+    <count_student>502053</count_student>
+    <count_teacher>30867</count_teacher>
+    <ratio>1.627000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Красноярский край </region>
+    <count_obr>1036</count_obr>
+    <count_student>293775</count_student>
+    <count_teacher>22058</count_teacher>
+    <ratio>1.332000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Приморский край </region>
+    <count_obr>548</count_obr>
+    <count_student>183775</count_student>
+    <count_teacher>12104</count_teacher>
+    <ratio>1.518000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Ставропольский край </region>
+    <count_obr>629</count_obr>
+    <count_student>253507</count_student>
+    <count_teacher>17457</count_teacher>
+    <ratio>1.452000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Хабаровский край </region>
+    <count_obr>400</count_obr>
+    <count_student>127054</count_student>
+    <count_teacher>8793</count_teacher>
+    <ratio>1.445000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Амурская область </region>
+    <count_obr>381</count_obr>
+    <count_student>92290</count_student>
+    <count_teacher>7186</count_teacher>
+    <ratio>1.284000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Архангельская область </region>
+    <count_obr>394</count_obr>
+    <count_student>115595</count_student>
+    <count_teacher>9259</count_teacher>
+    <ratio>1.248000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Астраханская область </region>
+    <count_obr>312</count_obr>
+    <count_student>98574</count_student>
+    <count_teacher>7199</count_teacher>
+    <ratio>1.369000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Белгородская область </region>
+    <count_obr>591</count_obr>
+    <count_student>136709</count_student>
+    <count_teacher>11787</count_teacher>
+    <ratio>1.160000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Брянская область </region>
+    <count_obr>651</count_obr>
+    <count_student>113058</count_student>
+    <count_teacher>11121</count_teacher>
+    <ratio>1.017000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Владимирская область </region>
+    <count_obr>423</count_obr>
+    <count_student>122125</count_student>
+    <count_teacher>9062</count_teacher>
+    <ratio>1.348000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Волгоградская область </region>
+    <count_obr>979</count_obr>
+    <count_student>225778</count_student>
+    <count_teacher>17673</count_teacher>
+    <ratio>1.278000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Вологодская область </region>
+    <count_obr>512</count_obr>
+    <count_student>115946</count_student>
+    <count_teacher>17673</count_teacher>
+    <ratio>6.560000000000001e+000</ratio>
+  </record>
+  <record>
+    <region>Воронежская область </region>
+    <count_obr>885</count_obr>
+    <count_student>194718</count_student>
+    <count_teacher>9029</count_teacher>
+    <ratio>2.157000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Ивановская область </region>
+    <count_obr>299</count_obr>
+    <count_student>85548</count_student>
+    <count_teacher>5876</count_teacher>
+    <ratio>1.456000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Иркутская область </region>
+    <count_obr>993</count_obr>
+    <count_student>270757</count_student>
+    <count_teacher>19752</count_teacher>
+    <ratio>1.371000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Калининградская область </region>
+    <count_obr>188</count_obr>
+    <count_student>86732</count_student>
+    <count_teacher>5650</count_teacher>
+    <ratio>1.535000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Калужская область </region>
+    <count_obr>374</count_obr>
+    <count_student>86822</count_student>
+    <count_teacher>7083</count_teacher>
+    <ratio>1.226000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Камчатский край </region>
+    <count_obr>119</count_obr>
+    <count_student>33312</count_student>
+    <count_teacher>2538</count_teacher>
+    <ratio>1.313000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Кемеровская область </region>
+    <count_obr>723</count_obr>
+    <count_student>264162</count_student>
+    <count_teacher>16818</count_teacher>
+    <ratio>1.571000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Кировская область </region>
+    <count_obr>607</count_obr>
+    <count_student>120115</count_student>
+    <count_teacher>10577</count_teacher>
+    <ratio>1.136000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Костромская область </region>
+    <count_obr>342</count_obr>
+    <count_student>61083</count_student>
+    <count_teacher>5102</count_teacher>
+    <ratio>1.197000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Курганская область </region>
+    <count_obr>507</count_obr>
+    <count_student>89628</count_student>
+    <count_teacher>7862</count_teacher>
+    <ratio>1.140000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Курская область </region>
+    <count_obr>629</count_obr>
+    <count_student>104385</count_student>
+    <count_teacher>11792</count_teacher>
+    <ratio>8.850000000000000e+000</ratio>
+  </record>
+  <record>
+    <region>Ленинградская область </region>
+    <count_obr>389</count_obr>
+    <count_student>126647</count_student>
+    <count_teacher>9119</count_teacher>
+    <ratio>1.389000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Липецкая область </region>
+    <count_obr>291</count_obr>
+    <count_student>103127</count_student>
+    <count_teacher>8629</count_teacher>
+    <ratio>1.195000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Магаданская область </region>
+    <count_obr>62</count_obr>
+    <count_student>15598</count_student>
+    <count_teacher>1068</count_teacher>
+    <ratio>1.460000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Московская область </region>
+    <count_obr>1442</count_obr>
+    <count_student>626720</count_student>
+    <count_teacher>38449</count_teacher>
+    <ratio>1.630000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Мурманская область </region>
+    <count_obr>178</count_obr>
+    <count_student>74047</count_student>
+    <count_teacher>5082</count_teacher>
+    <ratio>1.457000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Нижегородская область </region>
+    <count_obr>968</count_obr>
+    <count_student>282016</count_student>
+    <count_teacher>20494</count_teacher>
+    <ratio>1.376000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Новгородская область </region>
+    <count_obr>232</count_obr>
+    <count_student>56016</count_student>
+    <count_teacher>4026</count_teacher>
+    <ratio>1.391000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Новосибирская область </region>
+    <count_obr>1023</count_obr>
+    <count_student>251579</count_student>
+    <count_teacher>20909</count_teacher>
+    <ratio>1.203000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Омская область </region>
+    <count_obr>791</count_obr>
+    <count_student>193430</count_student>
+    <count_teacher>14065</count_teacher>
+    <ratio>1.375000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Оренбургская область </region>
+    <count_obr>1050</count_obr>
+    <count_student>206097</count_student>
+    <count_teacher>18154</count_teacher>
+    <ratio>1.135000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Орловская область </region>
+    <count_obr>421</count_obr>
+    <count_student>70273</count_student>
+    <count_teacher>7464</count_teacher>
+    <ratio>9.410000000000000e+000</ratio>
+  </record>
+  <record>
+    <region>Пензенская область </region>
+    <count_obr>480</count_obr>
+    <count_student>112136</count_student>
+    <count_teacher>9118</count_teacher>
+    <ratio>1.230000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Пермский край </region>
+    <count_obr>818</count_obr>
+    <count_student>274086</count_student>
+    <count_teacher>18500</count_teacher>
+    <ratio>1.482000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Псковская область </region>
+    <count_obr>245</count_obr>
+    <count_student>59426</count_student>
+    <count_teacher>5229</count_teacher>
+    <ratio>1.136000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Ростовская область </region>
+    <count_obr>1182</count_obr>
+    <count_student>374373</count_student>
+    <count_teacher>27184</count_teacher>
+    <ratio>1.377000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Рязанская область </region>
+    <count_obr>299</count_obr>
+    <count_student>94068</count_student>
+    <count_teacher>8021</count_teacher>
+    <ratio>1.173000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Самарская область </region>
+    <count_obr>724</count_obr>
+    <count_student>281796</count_student>
+    <count_teacher>18835</count_teacher>
+    <ratio>1.496000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Саратовская область </region>
+    <count_obr>981</count_obr>
+    <count_student>216613</count_student>
+    <count_teacher>18974</count_teacher>
+    <ratio>1.142000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Сахалинская область </region>
+    <count_obr>163</count_obr>
+    <count_student>50403</count_student>
+    <count_teacher>3488</count_teacher>
+    <ratio>1.445000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Свердловская область </region>
+    <count_obr>1122</count_obr>
+    <count_student>409243</count_student>
+    <count_teacher>28229</count_teacher>
+    <ratio>1.450000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Смоленская область </region>
+    <count_obr>481</count_obr>
+    <count_student>80700</count_student>
+    <count_teacher>8399</count_teacher>
+    <ratio>9.609999999999999e+000</ratio>
+  </record>
+  <record>
+    <region>Тамбовская область </region>
+    <count_obr>116</count_obr>
+    <count_student>93988</count_student>
+    <count_teacher>8641</count_teacher>
+    <ratio>1.088000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Тверская область </region>
+    <count_obr>564</count_obr>
+    <count_student>117295</count_student>
+    <count_teacher>9414</count_teacher>
+    <ratio>1.246000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Томская область </region>
+    <count_obr>353</count_obr>
+    <count_student>100290</count_student>
+    <count_teacher>7560</count_teacher>
+    <ratio>1.327000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Тульская область </region>
+    <count_obr>654</count_obr>
+    <count_student>120189</count_student>
+    <count_teacher>10082</count_teacher>
+    <ratio>1.192000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Тюменская область </region>
+    <count_obr>446</count_obr>
+    <count_student>140522</count_student>
+    <count_teacher>8414</count_teacher>
+    <ratio>1.670000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Ульяновская область </region>
+    <count_obr>495</count_obr>
+    <count_student>110995</count_student>
+    <count_teacher>9201</count_teacher>
+    <ratio>1.206000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Челябинская область </region>
+    <count_obr>896</count_obr>
+    <count_student>326106</count_student>
+    <count_teacher>21896</count_teacher>
+    <ratio>1.489000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Забайкальский край </region>
+    <count_obr>599</count_obr>
+    <count_student>136613</count_student>
+    <count_teacher>10972</count_teacher>
+    <ratio>1.245000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Ярославская область </region>
+    <count_obr>434</count_obr>
+    <count_student>109144</count_student>
+    <count_teacher>8271</count_teacher>
+    <ratio>1.320000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Москва </region>
+    <count_obr>1552</count_obr>
+    <count_student>778036</count_student>
+    <count_teacher>55905</count_teacher>
+    <ratio>1.392000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Санкт-Петербург </region>
+    <count_obr>679</count_obr>
+    <count_student>360337</count_student>
+    <count_teacher>25914</count_teacher>
+    <ratio>1.391000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Еврейская автономная область </region>
+    <count_obr>73</count_obr>
+    <count_student>18560</count_student>
+    <count_teacher>1327</count_teacher>
+    <ratio>1.399000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Ненецкий автономный округ </region>
+    <count_obr>38</count_obr>
+    <count_student>5772</count_student>
+    <count_teacher>539</count_teacher>
+    <ratio>1.071000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Ханты-Мансийский автономный округ - Югра </region>
+    <count_obr>356</count_obr>
+    <count_student>176163</count_student>
+    <count_teacher>12176</count_teacher>
+    <ratio>1.447000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Чукотский автономный округ </region>
+    <count_obr>42</count_obr>
+    <count_student>7080</count_student>
+    <count_teacher>604</count_teacher>
+    <ratio>1.172000000000000e+001</ratio>
+  </record>
+  <record>
+    <region>Ямало-Ненецкий автономный округ </region>
+    <count_obr>133</count_obr>
+    <count_student>68289</count_student>
+    <count_teacher>4708</count_teacher>
+    <ratio>1.450000000000000e+001</ratio>
+  </record>
+</part02>
